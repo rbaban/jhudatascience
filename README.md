@@ -1,2 +1,2 @@
 # jhudatascience
-Coursera John Hopkins Universiry Data Sceiance
+Coursera John Hopkins Universiry Data Science
