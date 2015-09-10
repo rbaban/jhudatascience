@@ -6,7 +6,7 @@ df <- read.csv("./data.csv")
 length(df$VAL[!is.na(df$VAL) & df$VAL==24])
 
 Question2
-column contain two data ( age and family)
+Tidy data has one variable per column - column contain two data ( age and family)
 
 Question3
 file.url <- 'https://d396qusza40orc.cloudfront.net/getdata%2Fdata%2FDATA.gov_NGAP.xlsx '
